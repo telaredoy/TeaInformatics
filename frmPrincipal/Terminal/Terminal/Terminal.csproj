@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{00035873-2100-49A0-B229-D251E1A6880C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Terminal</RootNamespace>
+    <AssemblyName>Terminal</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClienteDeuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClienteDeuda.Designer.cs">
+      <DependentUpon>ClienteDeuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConexionSocket.cs" />
+    <Compile Include="Control.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Control.Designer.cs">
+      <DependentUpon>Control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrearTicket.cs" />
+    <Compile Include="Datos.cs" />
+    <Compile Include="frm_Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Cliente.Designer.cs">
+      <DependentUpon>frm_Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_FiltroProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_FiltroProductos.Designer.cs">
+      <DependentUpon>frm_FiltroProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_NuevoCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_NuevoCliente.Designer.cs">
+      <DependentUpon>frm_NuevoCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Retiro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Retiro.Designer.cs">
+      <DependentUpon>frm_Retiro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Terminal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Terminal.Designer.cs">
+      <DependentUpon>frm_Terminal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Ventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Ventas.Designer.cs">
+      <DependentUpon>frm_Ventas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loguin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loguin.Designer.cs">
+      <DependentUpon>Loguin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Retiro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Retiro.Designer.cs">
+      <DependentUpon>Retiro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Send.cs" />
+    <Compile Include="Venta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Venta.Designer.cs">
+      <DependentUpon>Venta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventas.cs" />
+    <EmbeddedResource Include="ClienteDeuda.resx">
+      <DependentUpon>ClienteDeuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control.resx">
+      <DependentUpon>Control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Cliente.resx">
+      <DependentUpon>frm_Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_FiltroProductos.resx">
+      <DependentUpon>frm_FiltroProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_NuevoCliente.resx">
+      <DependentUpon>frm_NuevoCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Retiro.resx">
+      <DependentUpon>frm_Retiro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Terminal.resx">
+      <DependentUpon>frm_Terminal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Ventas.resx">
+      <DependentUpon>frm_Ventas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loguin.resx">
+      <DependentUpon>Loguin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Retiro.resx">
+      <DependentUpon>Retiro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Venta.resx">
+      <DependentUpon>Venta.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Serial\Serial\Serial.csproj">
+      <Project>{c3eb38f2-9779-41ca-87d8-d366d761a2f7}</Project>
+      <Name>Serial</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

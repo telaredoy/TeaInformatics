@@ -1,0 +1,28 @@
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Server\Server\bin\Debug\Server.exe.manifest
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Server\Server\bin\Debug\Server.application
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Server\Server\bin\Debug\Server.exe
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Server\Server\bin\Debug\Server.pdb
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Server\Server\bin\Debug\Serial.dll
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Server\Server\bin\Debug\Serial.pdb
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Server\Server\obj\Debug\Server.ServerFrm.resources
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Server\Server\obj\Debug\Server.exe.manifest
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Server\Server\obj\Debug\Server.application
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Server\Server\obj\Debug\Server.exe
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Server\Server\obj\Debug\Server.pdb
+C:\Dropbox\frmPrincipal\Server\Server\obj\Debug\Server.exe
+C:\Dropbox\frmPrincipal\Server\Server\obj\Debug\Server.pdb
+C:\Dropbox\frmPrincipal\Server\Server\bin\Debug\Serial.dll
+C:\Dropbox\frmPrincipal\Server\Server\bin\Debug\Serial.pdb
+C:\Dropbox\frmPrincipal\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Dropbox\frmPrincipal\Server\Server\obj\Debug\Server.ServerFrm.resources
+C:\Dropbox\frmPrincipal\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Dropbox\frmPrincipal\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Dropbox\frmPrincipal\Server\Server\obj\Debug\Server.exe.manifest
+C:\Dropbox\frmPrincipal\Server\Server\obj\Debug\Server.application
+C:\Dropbox\frmPrincipal\Server\Server\bin\Debug\Server.exe.manifest
+C:\Dropbox\frmPrincipal\Server\Server\bin\Debug\Server.application
+C:\Dropbox\frmPrincipal\Server\Server\bin\Debug\Server.exe
+C:\Dropbox\frmPrincipal\Server\Server\bin\Debug\Server.pdb

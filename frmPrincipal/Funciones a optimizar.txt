@@ -1,0 +1,25 @@
+        public OleDbDataReader ConsultaDatos(string Consulta)
+        {
+            
+            OleDbCommand DBcomnado = new OleDbCommand(Consulta+";", DBconexion);
+            OleDbDataReader DBdatareader;
+            DBdatareader = DBcomnado.ExecuteReader();
+            return DBdatareader;
+        }
+        public bool InsertarDatos(string Consulta)
+        {
+            
+            OleDbCommand DBcomnado = new OleDbCommand(Consulta, DBconexion);
+            OleDbDataReader DBdatareader;
+            
+            try
+            {
+                DBdatareader = DBcomnado.ExecuteReader();                
+                return true;
+            }
+            catch
+            {
+                
+                return false;
+            }
+        }

@@ -1,0 +1,37 @@
+C:\Users\Agu\Documents\Visual Studio 2013\Projects\deposito\deposito\bin\Debug\deposito.exe.config
+C:\Users\Agu\Documents\Visual Studio 2013\Projects\deposito\deposito\bin\Debug\deposito.exe
+C:\Users\Agu\Documents\Visual Studio 2013\Projects\deposito\deposito\bin\Debug\deposito.pdb
+C:\Users\Agu\Documents\Visual Studio 2013\Projects\deposito\deposito\bin\Debug\Serial.dll
+C:\Users\Agu\Documents\Visual Studio 2013\Projects\deposito\deposito\bin\Debug\Serial.pdb
+C:\Users\Agu\Documents\Visual Studio 2013\Projects\deposito\deposito\obj\Debug\deposito.csprojResolveAssemblyReference.cache
+C:\Users\Agu\Documents\Visual Studio 2013\Projects\deposito\deposito\obj\Debug\deposito.DevolucionSinStock.resources
+C:\Users\Agu\Documents\Visual Studio 2013\Projects\deposito\deposito\obj\Debug\deposito.frm_ABProductos.resources
+C:\Users\Agu\Documents\Visual Studio 2013\Projects\deposito\deposito\obj\Debug\deposito.frm_CargarStock.resources
+C:\Users\Agu\Documents\Visual Studio 2013\Projects\deposito\deposito\obj\Debug\deposito.frm_deposito.resources
+C:\Users\Agu\Documents\Visual Studio 2013\Projects\deposito\deposito\obj\Debug\deposito.frm_Devolucion.resources
+C:\Users\Agu\Documents\Visual Studio 2013\Projects\deposito\deposito\obj\Debug\deposito.frm_Login.resources
+C:\Users\Agu\Documents\Visual Studio 2013\Projects\deposito\deposito\obj\Debug\deposito.frm_NuevoProveedor.resources
+C:\Users\Agu\Documents\Visual Studio 2013\Projects\deposito\deposito\obj\Debug\deposito.frm_PreDevolucion.resources
+C:\Users\Agu\Documents\Visual Studio 2013\Projects\deposito\deposito\obj\Debug\deposito.Properties.Resources.resources
+C:\Users\Agu\Documents\Visual Studio 2013\Projects\deposito\deposito\obj\Debug\deposito.csproj.GenerateResource.Cache
+C:\Users\Agu\Documents\Visual Studio 2013\Projects\deposito\deposito\obj\Debug\deposito.exe
+C:\Users\Agu\Documents\Visual Studio 2013\Projects\deposito\deposito\obj\Debug\deposito.pdb
+C:\Dropbox\frmPrincipal\deposito\deposito\bin\Debug\deposito.exe.config
+C:\Dropbox\frmPrincipal\deposito\deposito\obj\Debug\deposito.exe
+C:\Dropbox\frmPrincipal\deposito\deposito\obj\Debug\deposito.pdb
+C:\Dropbox\frmPrincipal\deposito\deposito\bin\Debug\deposito.exe
+C:\Dropbox\frmPrincipal\deposito\deposito\bin\Debug\deposito.pdb
+C:\Dropbox\frmPrincipal\deposito\deposito\bin\Debug\Serial.dll
+C:\Dropbox\frmPrincipal\deposito\deposito\bin\Debug\Serial.pdb
+C:\Dropbox\frmPrincipal\deposito\deposito\obj\Debug\deposito.csprojResolveAssemblyReference.cache
+C:\Dropbox\frmPrincipal\deposito\deposito\obj\Debug\deposito.DevolucionSinStock.resources
+C:\Dropbox\frmPrincipal\deposito\deposito\obj\Debug\deposito.frm_ABProductos.resources
+C:\Dropbox\frmPrincipal\deposito\deposito\obj\Debug\deposito.frm_CargarStock.resources
+C:\Dropbox\frmPrincipal\deposito\deposito\obj\Debug\deposito.frm_deposito.resources
+C:\Dropbox\frmPrincipal\deposito\deposito\obj\Debug\deposito.frm_Login.resources
+C:\Dropbox\frmPrincipal\deposito\deposito\obj\Debug\deposito.frm_NuevoProveedor.resources
+C:\Dropbox\frmPrincipal\deposito\deposito\obj\Debug\deposito.frm_PreDevolucion.resources
+C:\Dropbox\frmPrincipal\deposito\deposito\obj\Debug\deposito.Properties.Resources.resources
+C:\Dropbox\frmPrincipal\deposito\deposito\obj\Debug\deposito.csproj.GenerateResource.Cache
+C:\Dropbox\frmPrincipal\deposito\deposito\obj\Debug\deposito.Imprimir.resources
+C:\Dropbox\frmPrincipal\deposito\deposito\obj\Debug\deposito.frm_DevolucionStock.resources

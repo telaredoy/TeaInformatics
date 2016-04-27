@@ -1,0 +1,40 @@
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Terminal\Terminal\bin\Debug\Terminal.exe
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Terminal\Terminal\bin\Debug\Terminal.pdb
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Terminal\Terminal\bin\Debug\Serial.dll
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Terminal\Terminal\bin\Debug\Serial.pdb
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Terminal\Terminal\obj\Debug\Terminal.csprojResolveAssemblyReference.cache
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Terminal\Terminal\obj\Debug\Terminal.ClienteDeuda.resources
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Terminal\Terminal\obj\Debug\Terminal.Control.resources
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Terminal\Terminal\obj\Debug\Terminal.frm_Cliente.resources
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Terminal\Terminal\obj\Debug\Terminal.frm_FiltroProductos.resources
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Terminal\Terminal\obj\Debug\Terminal.frm_NuevoCliente.resources
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Terminal\Terminal\obj\Debug\Terminal.frm_Retiro.resources
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Terminal\Terminal\obj\Debug\Terminal.frm_Terminal.resources
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Terminal\Terminal\obj\Debug\Terminal.frm_Ventas.resources
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Terminal\Terminal\obj\Debug\Terminal.Loguin.resources
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Terminal\Terminal\obj\Debug\Terminal.Properties.Resources.resources
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Terminal\Terminal\obj\Debug\Terminal.Retiro.resources
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Terminal\Terminal\obj\Debug\Terminal.Venta.resources
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Terminal\Terminal\obj\Debug\Terminal.csproj.GenerateResource.Cache
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Terminal\Terminal\obj\Debug\Terminal.exe
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Terminal\Terminal\obj\Debug\Terminal.pdb
+C:\Dropbox\frmPrincipal\Terminal\Terminal\obj\Debug\Terminal.exe
+C:\Dropbox\frmPrincipal\Terminal\Terminal\obj\Debug\Terminal.pdb
+C:\Dropbox\frmPrincipal\Terminal\Terminal\bin\Debug\Terminal.exe
+C:\Dropbox\frmPrincipal\Terminal\Terminal\bin\Debug\Terminal.pdb
+C:\Dropbox\frmPrincipal\Terminal\Terminal\bin\Debug\Serial.dll
+C:\Dropbox\frmPrincipal\Terminal\Terminal\bin\Debug\Serial.pdb
+C:\Dropbox\frmPrincipal\Terminal\Terminal\obj\Debug\Terminal.csprojResolveAssemblyReference.cache
+C:\Dropbox\frmPrincipal\Terminal\Terminal\obj\Debug\Terminal.ClienteDeuda.resources
+C:\Dropbox\frmPrincipal\Terminal\Terminal\obj\Debug\Terminal.Control.resources
+C:\Dropbox\frmPrincipal\Terminal\Terminal\obj\Debug\Terminal.frm_Cliente.resources
+C:\Dropbox\frmPrincipal\Terminal\Terminal\obj\Debug\Terminal.frm_FiltroProductos.resources
+C:\Dropbox\frmPrincipal\Terminal\Terminal\obj\Debug\Terminal.frm_NuevoCliente.resources
+C:\Dropbox\frmPrincipal\Terminal\Terminal\obj\Debug\Terminal.frm_Retiro.resources
+C:\Dropbox\frmPrincipal\Terminal\Terminal\obj\Debug\Terminal.frm_Terminal.resources
+C:\Dropbox\frmPrincipal\Terminal\Terminal\obj\Debug\Terminal.frm_Ventas.resources
+C:\Dropbox\frmPrincipal\Terminal\Terminal\obj\Debug\Terminal.Loguin.resources
+C:\Dropbox\frmPrincipal\Terminal\Terminal\obj\Debug\Terminal.Properties.Resources.resources
+C:\Dropbox\frmPrincipal\Terminal\Terminal\obj\Debug\Terminal.Retiro.resources
+C:\Dropbox\frmPrincipal\Terminal\Terminal\obj\Debug\Terminal.Venta.resources
+C:\Dropbox\frmPrincipal\Terminal\Terminal\obj\Debug\Terminal.csproj.GenerateResource.Cache

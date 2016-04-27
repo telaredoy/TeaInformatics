@@ -1,0 +1,5 @@
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Serial\Serial\bin\Release\Serial.dll
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Serial\Serial\bin\Release\Serial.pdb
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Serial\Serial\obj\Release\Serial.dll
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Serial\Serial\obj\Release\Serial.pdb
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Serial\Serial\obj\Release\Serial.csprojResolveAssemblyReference.cache

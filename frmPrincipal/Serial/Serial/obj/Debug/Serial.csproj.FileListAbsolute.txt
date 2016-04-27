@@ -1,0 +1,10 @@
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Serial\Serial\obj\Debug\Serial.csprojResolveAssemblyReference.cache
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Serial\Serial\bin\Debug\Serial.dll
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Serial\Serial\bin\Debug\Serial.pdb
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Serial\Serial\obj\Debug\Serial.dll
+C:\Users\Tibe\Documents\Visual Studio 2013\Projects\Serial\Serial\obj\Debug\Serial.pdb
+C:\Dropbox\frmPrincipal\Serial\Serial\bin\Debug\Serial.dll
+C:\Dropbox\frmPrincipal\Serial\Serial\bin\Debug\Serial.pdb
+C:\Dropbox\frmPrincipal\Serial\Serial\obj\Debug\Serial.csprojResolveAssemblyReference.cache
+C:\Dropbox\frmPrincipal\Serial\Serial\obj\Debug\Serial.dll
+C:\Dropbox\frmPrincipal\Serial\Serial\obj\Debug\Serial.pdb

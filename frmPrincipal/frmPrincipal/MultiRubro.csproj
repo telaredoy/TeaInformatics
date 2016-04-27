@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9C431B85-71F7-4EBF-A2F2-67C012F18595}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>frmPrincipal</RootNamespace>
+    <AssemblyName>frmPrincipal</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Agregar_Producto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agregar_Producto.Designer.cs">
+      <DependentUpon>Agregar_Producto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conexion.cs" />
+    <Compile Include="Frm_AjustesProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_AjustesProducto.Designer.cs">
+      <DependentUpon>Frm_AjustesProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_CompraDevolucionAProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_CompraDevolucionAProveedor.Designer.cs">
+      <DependentUpon>frm_CompraDevolucionAProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_MovimientoCajero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_MovimientoCajero.Designer.cs">
+      <DependentUpon>frm_MovimientoCajero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Nuevocliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Nuevocliente.Designer.cs">
+      <DependentUpon>frm_Nuevocliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_NuevoCajero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_NuevoCajero.Designer.cs">
+      <DependentUpon>frm_NuevoCajero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_NuevoProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_NuevoProveedor.Designer.cs">
+      <DependentUpon>frm_NuevoProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_PagarAProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_PagarAProveedor.Designer.cs">
+      <DependentUpon>frm_PagarAProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Principal.Designer.cs">
+      <DependentUpon>frm_Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Login.Designer.cs">
+      <DependentUpon>Form_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_VeroModificarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_VeroModificarCliente.Designer.cs">
+      <DependentUpon>frm_VeroModificarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="frm_VeroModificarCajero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_VeroModificarCajero.Designer.cs">
+      <DependentUpon>frm_VeroModificarCajero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_VeroModificarProveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_VeroModificarProveedores.Designer.cs">
+      <DependentUpon>frm_VeroModificarProveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroDeVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroDeVentas.Designer.cs">
+      <DependentUpon>RegistroDeVentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Venta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Venta.Designer.cs">
+      <DependentUpon>Venta.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Agregar_Producto.resx">
+      <DependentUpon>Agregar_Producto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_AjustesProducto.resx">
+      <DependentUpon>Frm_AjustesProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_CompraDevolucionAProveedor.resx">
+      <DependentUpon>frm_CompraDevolucionAProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_MovimientoCajero.resx">
+      <DependentUpon>frm_MovimientoCajero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Nuevocliente.resx">
+      <DependentUpon>frm_Nuevocliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_NuevoCajero.resx">
+      <DependentUpon>frm_NuevoCajero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_NuevoProveedor.resx">
+      <DependentUpon>frm_NuevoProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_PagarAProveedor.resx">
+      <DependentUpon>frm_PagarAProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Principal.resx">
+      <DependentUpon>frm_Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Login.resx">
+      <DependentUpon>Form_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_VeroModificarCliente.resx">
+      <DependentUpon>frm_VeroModificarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="frm_VeroModificarCajero.resx">
+      <DependentUpon>frm_VeroModificarCajero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_VeroModificarProveedores.resx">
+      <DependentUpon>frm_VeroModificarProveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistroDeVentas.resx">
+      <DependentUpon>RegistroDeVentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Venta.resx">
+      <DependentUpon>Venta.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Imagenes\Cajero.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
